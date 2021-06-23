@@ -1,0 +1,14 @@
+.profilePhoto {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.profilePhoto img {
+    width: 300px;
+    height: 300px;
+}
+.profilePhoto span {
+    margin-left: 30px;
+    margin-top: 15px;
+    color: wheat;
+}

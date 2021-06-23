@@ -1,0 +1,13 @@
+.formControl.error input,
+.formControl.error textarea
+{
+    border: 2px solid red;
+}
+.formControl.error span {
+ color: red;
+}
+.formSamariError {
+    border: red 2px solid;
+    padding: 5px;
+    color: rosybrown;
+}

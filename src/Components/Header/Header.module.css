@@ -1,0 +1,16 @@
+.header {
+    grid-area: h;
+    background-color: #304159;
+    margin-bottom: 10px;
+}
+.header img {
+    width: 100px;
+    padding-top: 10px;
+    margin-left: 200px;
+}
+.navDiv {
+    float: right;
+}
+.header a {
+    color: wheat;
+}
